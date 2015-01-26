@@ -1,0 +1,16 @@
+div#content_area {
+	width: 100%;
+	min-height: 200px;
+	background-color: white;
+	border: 1px solid black;
+}
+
+body {
+	background-color: #E6E6E6;
+}
+
+a:link{
+	background-color: #A1A1A;
+	text-decoration: none;
+	font-size: 20px;
+}
